@@ -1,0 +1,28 @@
+# Blender MTL File: 'AbandonedDoor_01.blend'
+# Material Count: 2
+
+newmtl Door_Abandoned.019
+Ns 92.676560
+Ka 1.000000 1.000000 1.000000
+Kd 0.205303 0.205303 0.205303
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Door_Abandoned_01_Textures\\Door_01_Door_Abandoned_Normal.png
+map_Kd Door_Abandoned_01_Textures\\Door_01_Door_Abandoned_BaseColor.png
+map_Ns Door_Abandoned_01_Textures\\Door_01_Door_Abandoned_Roughness.png
+
+newmtl Door_Abandoned.020
+Ns 92.676560
+Ka 1.000000 1.000000 1.000000
+Kd 0.205303 0.205303 0.205303
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Door_Abandoned_01_Textures\\Door_01_Door_Abandoned_Normal.png
+map_Kd Door_Abandoned_01_Textures\\Door_01_Door_Abandoned_BaseColor.png
+map_Ns Door_Abandoned_01_Textures\\Door_01_Door_Abandoned_Roughness.png
